@@ -8,13 +8,13 @@ Appwrite playground is a simple way to explore the Appwrite API & Appwrite Flutt
 
 The **lib/main.dart** file in this repository contains **all** the playground examples and source code.
 
-You can learn how to to integrate your Appwrite Flutter SDK in your project and see how different features of the SDK can be used.
+You can learn how to integrate your Appwrite Flutter SDK in your project and see how different features of the SDK can be used.
 
 This playground doesn't include any Appwrite best practices but rather intended to show the most simple examples and use cases of using the Appwrite API in your app.
 
 ## Contributing
 
-All code contributions - including those of people having commit access - must go through a pull request and approved by a core developer before being merged. This is to ensure proper review of all the code.
+All code contributions - including those of people having commit access - must go through a pull request and approved by a core developer before being merged. This is to ensure proper review of all the code and changes.
 
 We truly ❤️ pull requests! If you wish to help, you can learn more about how you can contribute to this project in the [contribution guide]([CONTRIBUTING.md](https://github.com/appwrite/appwrite/blob/master/CONTRIBUTING.md)).
 
